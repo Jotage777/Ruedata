@@ -1,5 +1,5 @@
 # Ruedata
-Teste tecnico da Ruedata data driven knowledge
+Teste técnico da Ruedata data driven knowledge
 
 ## 👤Desenvolvedor
 
